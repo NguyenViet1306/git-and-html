@@ -1,6 +1,6 @@
-function showMessage() {
-    document.write('hê lô e vi bo đi =))')
-}
+// function showMessage() {
+//     document.write('hê lô e vi bo đi =))')
+// }
 
 
 // function showMessage() {
@@ -8,10 +8,10 @@ function showMessage() {
 // }
 
 
-// function showMessage() {
-//     console.log('Xin Chào!');
-//
-// }
+function showMessage() {
+    console.log('Xin Chào!');
+
+}
 
 
 // function showMessage() {
